@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @somu28
+- 👋 Hi, I’m @somu28 / Somesh
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bilungsomesh5@gmail.com
 
 <!---
